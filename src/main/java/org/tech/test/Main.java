@@ -47,6 +47,6 @@ public class Main {
         scanner.close();
 
         System.out.println("Input" + Arrays.toString(input));
-        System.out.println("Output is: " + findLargestSumOfDigits(input));
+        System.out.println("Output is: " + findMaxSum(input));
     }
 }
